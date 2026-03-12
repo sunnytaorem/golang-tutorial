@@ -1,0 +1,3 @@
+EBT: 49900.00
+Profit: 47904.00
+Ratio (EBT / Profit): 1.04
